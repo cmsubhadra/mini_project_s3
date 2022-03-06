@@ -1,7 +1,0 @@
-diagrams
-
-https://extrudesign.com/virtual-assistant-using-python/ 
-
-project 
-
-https://www.geeksforgeeks.org/voice-assistant-using-python/
